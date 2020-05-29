@@ -1,0 +1,39 @@
+{
+  "continue": {
+    "rvcontinue": "20190726215350|908022623",
+    "continue": "||"
+  },
+  "query": {
+    "redirects": [
+      {
+        "from": "Zappa",
+        "to": "Frank Zappa"
+      }
+    ],
+    "pages": {
+      "10672": {
+        "pageid": 10672,
+        "ns": 0,
+        "title": "Frank Zappa",
+        "revisions": [
+          {
+            "user": "InternetArchiveBot",
+            "timestamp": "2019-08-02T19:38:23Z"
+          },
+          {
+            "user": "RHodnett",
+            "timestamp": "2019-07-30T05:12:47Z"
+          },
+          {
+            "user": "Mitch Ames",
+            "timestamp": "2019-07-28T00:41:22Z"
+          },
+          {
+            "user": "InternetArchiveBot",
+            "timestamp": "2019-07-27T14:04:18Z"
+          }
+        ]
+      }
+    }
+  }
+}
